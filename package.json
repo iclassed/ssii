@@ -23,7 +23,7 @@
     "@astrojs/sitemap": "^3.7.3",
     "@tailwindcss/postcss": "^4.3.3",
     "@tailwindcss/vite": "^4.3.3",
-    "astro": "^7.3.8",
+    "astro": "^7.4.12",
     "jose": "^5.9.0",
     "js-yaml": "^4.3.2",
     "svgo": "^4.1.0",
